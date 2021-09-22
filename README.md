@@ -1,10 +1,8 @@
   ### Hello World!  
 
-  - 🔭 I’m currently working as a Software Developer in Bengaluru, India
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about multiplayer FPS gaming, chess and Tintin comics
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  - 🔭 I’m currently working as Embedded System Engineer in Panchkula, India
+  - 🌱 I’m into Embedded Systems and IOT
+  - 😄 Pronouns: She / Her
   
   #### 📫 How to reach me:
   
