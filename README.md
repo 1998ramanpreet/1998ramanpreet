@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt= Hi there! I'm (Ramanpreet Kaur)|https://1998ramanpreet.github.io/)" title="👋 Hi there! I'm (Ramanpreet Kaur)|https://1998ramanpreet.github.io/)"/>](https://1998ramanpreet.github.io/)
+[<img src="https://raw.githubusercontent.com/1998ramanpreet/1998ramanpreet/intro.gif" alt= Hi there! I'm (Ramanpreet Kaur)|https://1998ramanpreet.github.io/)" title="👋 Hi there! I'm (Ramanpreet Kaur)|https://1998ramanpreet.github.io/)"/>](https://1998ramanpreet.github.io/)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00df00)
 <!--
