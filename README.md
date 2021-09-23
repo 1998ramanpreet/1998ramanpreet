@@ -22,3 +22,4 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 
 
   
+https://github-readme-stats.vercel.app/api?username={1998ramanpreet}
