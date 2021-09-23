@@ -4,7 +4,14 @@
 
 ---
 - ✨ I'm currently working as Embedded System Engineer.
-- 😄 My Pronouns: She/Her   
+- 😄 My Pronouns: She/Her  
+---
+
+<h3 align="center">Find me on</h3>
+<p align="center">  <a 
+href="http://www.linkedin.com/in/ramanpreet-kaur-a90b30189" target="_blank"><img alt="LinkedIn" 
+src="https://github-readme-stats.vercel.app/api?username={1998ramanpreet}" /></a>
+</p>
 
 <h3 align="center">Find me on</h3>
 <p align="center">  <a 
@@ -15,8 +22,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 href="mailto:1998ramanpreet@gmail.com" target="_blank"><img alt="Gmail" 
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<p align="center">
 
 
   
-https://github-readme-stats.vercel.app/api?username={1998ramanpreet}
+
