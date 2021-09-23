@@ -23,13 +23,6 @@ href="mailto:1998ramanpreet@gmail.com" target="_blank"><img alt="Gmail"
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="center">
-<br>
-<text>Do. Or do not. There is no try. — Yoda</text>
-</p>
-<br>
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
-<br>
-<img alt="centered image" height="85" src="images/us.svg"/>
-</p>
+
+
   
