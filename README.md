@@ -10,8 +10,8 @@ I'm currently working as Embedded System Engineer with a hands-on approach to pr
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1998ramanpreet&show_icons=true&theme=dracula" alt="1998ramanpreet" /></p>
 
 
-
-## Find me on
+<h3 align="center"> FInd me on</h3>
+Find me on
 <p align="center">  <a 
 href="http://www.linkedin.com/in/ramanpreet-kaur-a90b30189" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a 
