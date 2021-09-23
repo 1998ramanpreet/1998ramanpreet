@@ -11,7 +11,7 @@
 
   #### 📫 How to reach me:
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](http://www.linkedin.com/in/ramanpreet-kaur-a90b30189)  &nbsp; <a href="mailto:1998ramanpreet@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+#### [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](http://www.linkedin.com/in/ramanpreet-kaur-a90b30189)  &nbsp; <a href="mailto:1998ramanpreet@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 
 <!--
