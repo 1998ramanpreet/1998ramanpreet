@@ -1,9 +1,6 @@
 
 <h3 align="center">👋 Hi there! I'm Ramanpreet</h3>
-<p align="center">
-  <a href="https://1998ramanpreet.github.io/">Website</a> •
-  <a href="http://www.linkedin.com/in/ramanpreet-kaur-a90b30189">LinkedIn</a>
-</p>
+
 
 ---
 - ✨ I'm currently working as Embedded System Engineer.
