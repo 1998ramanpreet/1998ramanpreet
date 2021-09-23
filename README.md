@@ -11,7 +11,7 @@ I'm currently working as Embedded System Engineer with a hands-on approach to pr
 
 
 
-<h3 align="center">Find me on</h3>
+## Find me on
 <p align="center">  <a 
 href="http://www.linkedin.com/in/ramanpreet-kaur-a90b30189" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a 
