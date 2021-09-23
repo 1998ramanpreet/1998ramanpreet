@@ -6,7 +6,6 @@
 - ✨ I'm currently working as Embedded System Engineer.
 - 😄 My Pronouns: She/Her  
 ## Stats
----
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1998ramanpreet&show_icons=true&theme=dracula" alt="1998ramanpreet" /></p>
 
