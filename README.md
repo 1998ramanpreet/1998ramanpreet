@@ -2,9 +2,9 @@
 <h3 align="center">👋 Hi there! I'm Ramanpreet</h3>
 <h3 align="center">Welcome to my Github Profile!</h3>
 
----
-- ✨ I'm currently working as Embedded System Engineer.
-- 😄 My Pronouns: She/Her  
+## About me
+I'm currently working as Embedded System Engineer with a hands-on approach to problem-solving and an unending thirst for knowledge. <br> Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects!
+  
 ## Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1998ramanpreet&show_icons=true&theme=dracula" alt="1998ramanpreet" /></p>
