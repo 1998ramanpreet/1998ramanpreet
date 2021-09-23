@@ -7,11 +7,6 @@
 - 😄 My Pronouns: She/Her  
 ---
 
-<h3 align="center">Find me on</h3>
-<p align="center">  <a 
-href="http://www.linkedin.com/in/ramanpreet-kaur-a90b30189" target="_blank"><img alt="LinkedIn" 
-src="![Github Stats](https://github-readme-stats.vercel.app/api?username=minoveaz&count_private=true&show_icons=true)" /></a>
-</p>
 
 <h3 align="center">Find me on</h3>
 <p align="center">  <a 
