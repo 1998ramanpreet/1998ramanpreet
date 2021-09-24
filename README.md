@@ -5,10 +5,15 @@
 ## About me
 I'm currently working as Embedded System Engineer with a hands-on approach to problem-solving and never ending thirst for knowledge. <br> Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects!
   
-## Stats
+## Quick Stats about me
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1998ramanpreet&show_icons=true&theme=dracula" alt="1998ramanpreet" /></p>
 
+## Projects with My Work
+
+- [**Smart Street light System**](https://github.com/1998ramanpreet/Smart-Street-Light-System): The Official Blog for 75team, the largest front end team in @Qihoo360.
+- [**Read-Out Circuit for Biosensors**](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors):To perform CTNI test which predicts the amount of troponin in the blood by means of conductivity of analyte and thereby making its use in medical applications for cardiac arrest detection.
+- [**Controlling Orthotic Device using TFT-LCD**](https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD): Create and share your presentations online.
 
 ## Find me on
 
