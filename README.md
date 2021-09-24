@@ -9,7 +9,7 @@ I'm currently working as Embedded System Engineer who loves to learn new things.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1998ramanpreet&show_icons=true&theme=dracula" alt="1998ramanpreet" /></p>
 
-## Projects with My Work
+## Projects
 
 - [**Smart Street light System**](https://github.com/1998ramanpreet/Smart-Street-Light-System): Automation of street lights to reduce power consumption.
 - [**Read-Out Circuit for Biosensors**](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors):To perform CTNI test which predicts the amount of troponin in the blood by means of conductivity of analyte and thereby making its use in medical applications for cardiac arrest detection.
