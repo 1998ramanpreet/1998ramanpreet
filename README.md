@@ -1,6 +1,9 @@
 
 <h3 align="center">👋 Hi there! I'm Ramanpreet. Welcome to my Github Profile!</h3>
 
+  # 
+  <img src="https://komarev.com/ghpvc/?username=1998ramanpreet" width=160px/>
+
 ## About me
 I'm currently working as Embedded System Engineer who loves to learn new things. Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects!
   
