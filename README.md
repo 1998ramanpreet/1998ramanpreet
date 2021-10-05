@@ -3,6 +3,9 @@
 
   # 
   <img src="https://komarev.com/ghpvc/?username=1998ramanpreet" width=100px/>
+  
+<a href="https://aashimawadhwa.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
 
 ## About me
 I'm currently working as Embedded System Engineer who loves to learn new things. Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects!
@@ -11,7 +14,7 @@ I'm currently working as Embedded System Engineer who loves to learn new things.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1998ramanpreet&show_icons=true&theme=dracula" alt="1998ramanpreet" /></p>
 
-## Projects
+## Have a look on some of my college Projects
 
 - [**Smart Street light System**](https://github.com/1998ramanpreet/Smart-Street-Light-System): Automation of street lights to reduce power consumption.
 - [**Read-Out Circuit for Biosensors**](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors):To perform CTNI test which predicts the amount of troponin in the blood by means of conductivity of analyte and thereby making its use in medical applications for cardiac arrest detection.
@@ -27,6 +30,8 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 href="mailto:1998ramanpreet@gmail.com" target="_blank"><img alt="Gmail" 
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+
 
 
   
