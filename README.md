@@ -1,15 +1,15 @@
 
 <h3 align="center">👋 Hi there! I'm Ramanpreet. Welcome to my Github Profile!</h3>
 
-
-  
-
-## About me
-I'm currently working as Embedded System Engineer who loves to learn new things. Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects!
 ##
  
   <a href="https://1998ramanpreet.github.io" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
+  
+
+## About me
+I'm currently working as Embedded System Engineer who loves to learn new things. Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects!
+
 
   
 ## Quick Stats about me
@@ -32,8 +32,6 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 href="mailto:1998ramanpreet@gmail.com" target="_blank"><img alt="Gmail" 
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-##
-  <img src="https://komarev.com/ghpvc/?username=1998ramanpreet"  width="17%";margin-left:20px;margin-right:20px;></img></a>   
 
 
 
