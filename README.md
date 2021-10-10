@@ -4,6 +4,9 @@
   # 
   <img src="https://komarev.com/ghpvc/?username=1998ramanpreet" width=100px;/>
   
+  <a href="https://1998ramanpreet.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
+  
 
 ## About me
 I'm currently working as Embedded System Engineer who loves to learn new things. Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects!
