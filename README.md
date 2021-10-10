@@ -3,7 +3,8 @@
 
   # 
   <img src="https://komarev.com/ghpvc/?username=1998ramanpreet" width=100px;/>
-  
+    <a href="" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=1998ramanpreet"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
   <a href="https://1998ramanpreet.github.io" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
   
