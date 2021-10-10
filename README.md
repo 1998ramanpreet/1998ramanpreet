@@ -29,7 +29,7 @@ href="mailto:1998ramanpreet@gmail.com" target="_blank"><img alt="Gmail"
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+-
 <img src="https://komarev.com/ghpvc/?username=1998ramanpreet" width=160px/>
 
 
