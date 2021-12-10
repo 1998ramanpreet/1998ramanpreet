@@ -1,5 +1,5 @@
 
-<h3 align="center">👋 Hi there! I'm Ramanpreet. Welcome to my Github Profile!</h3>
+<h3 align="center">Hi there! I'm Ramanpreet. Welcome to my Github Profile!</h3>
 
  
 
