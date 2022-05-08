@@ -5,9 +5,6 @@
 
 ## About me
 I'm currently working as Embedded System Engineer who loves to learn new things. Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects!<br>
-<b> See what I'm up to at [Electron Gone Wild](https://github.com/electrongonewild)</b> 
-
-
   
 <!-- ## Quick Stats about me -->
 
@@ -17,8 +14,9 @@ I'm currently working as Embedded System Engineer who loves to learn new things.
 
 - [**Smart Street light System**](https://github.com/1998ramanpreet/Smart-Street-Light-System): Automation of street lights to reduce power consumption.
 - [**Read-Out Circuit for Biosensors**](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors):To perform CTNI test which predicts the amount of troponin in the blood by means of conductivity of analyte and thereby making its use in medical applications for cardiac arrest detection.
-- [**Controlling Orthotic Device using TFT-LCD**](https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD): HMI development and automation for Robotic Rehabilitation and thereby making its use in medical application (Ankle therapy control)
-- [**Mobile Phone Detection Using Operational Amplifier**](https://github.com/1998ramanpreet/Mobile-Phone-Detection-Using-Operational-Amplifier): Practical implementation and analyzation of different circuits used for detection of activated mobile phones i.e. calling and SMS.
+- [**Controlling Orthotic Device using TFT-LCD**](https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD): HMI development and automation for Robotic Rehabilitation and thereby making its use in medical application (Ankle therapy control)<br>
+<!-- - [**Mobile Phone Detection Using Operational Amplifier**](https://github.com/1998ramanpreet/Mobile-Phone-Detection-Using-Operational-Amplifier): Practical implementation and analyzation of different circuits used for detection of activated mobile phones i.e. calling and SMS. -->
+<b> See what I'm up to at [Electron Gone Wild](https://github.com/electrongonewild)</b> 
 ## Let's Connect
 
 <p>  <a 
